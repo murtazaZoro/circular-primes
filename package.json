@@ -1,0 +1,17 @@
+{
+  "name": "circular-primes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "10.12.0"
+  },
+  "dependencies": {
+    "quick-is-prime": "^1.0.7"
+  }
+}
